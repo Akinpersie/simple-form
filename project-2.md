@@ -7,7 +7,7 @@
 ![screenshot-2](clone.JPG)
 - Stage the Form File
     - Place the client's HTML form file (form.html) and CSS (style.css) in this folder and save
-![screenshot-3](staging.jpg) 
+![screenshot-3](staging.JPG) 
 
 - Use Git to add the form.html and style.css files to the staging area:
     > git add form.html style.css
